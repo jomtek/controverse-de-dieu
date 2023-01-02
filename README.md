@@ -8,9 +8,9 @@ Ici, c'est un **espace collaboratif**. Ton aide est importante, car tu as des co
 Si tu ne sais pas par où commencer, laisse-toi guider par le sommaire.<br><br>
 Dieu en lui-même<br>
 [Comment définir Dieu ?](comment_definir_dieu.md)<br>
-[Dieu est-il un ou plusieurs ?](polytheisme.md)
+[Dieu est-il un ou plusieurs ?](polytheisme.md)<br>
 [Peut-on prouver l'existence de Dieu ? (charge de la preuve)](prouver_dieu.md)<br>
-[Dieu est-il vraiment méchant ?](dieu_mechant.md)
+[Dieu nous veut-il du bien ?](dieu_mechant.md)
 
 <br>1. Dieu nécessaire ?<br>
 [Dieu est-il un élément nécessaire de l'Univers ? (principe anthropique)](utilite_de_dieu_uni.md)<br>
