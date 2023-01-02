@@ -18,7 +18,6 @@ Dieu en lui-même<br>
 [Dieu est-il nécessaire à l'humanité ? (morale déontologique)](utilite_de_dieu_hum.md)<br>
 
 <br>2. Dieu solution de tout ?<br>
-[Dieu clarifie l'existence](dieu_simple.md)<br>
 [L'Univers est parfait (argument téléologique, fine tuning)](fine_tuning.md)<br>
 [Qui a créé Dieu ? (régression infinie)](createur_de_dieu.md)<br>
 [Dieu apporte-t-il réellement plus de Sens à l'existence ?](sens_vraiment_dieu.md)
